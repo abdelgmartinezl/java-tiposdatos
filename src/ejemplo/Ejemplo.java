@@ -37,6 +37,8 @@ public class Ejemplo {
         System.out.println("boolean: " + booleanVar);
         System.out.println("String: " + stringVar);
 
+        System.out.println("Ciao!");
+
     }
 
 }
